@@ -1,7 +1,7 @@
 
 A fun little stickman game build upon JavaFX. Some design patterns are interpreted.
 
-radle run the project will automatic generate the game window.
+gradle run the project will automatic generate the game window.
 
 -- Keyboard Control:
 A - move left
