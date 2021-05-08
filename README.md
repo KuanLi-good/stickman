@@ -1,6 +1,5 @@
 
-A fun little stickman game build upon JavaFX. Some design patterns are interpreted.
-
+A fun little stickman game built upon JavaFX. A variety of Design Patterns are incorporated.
 gradle run the project will automatic generate the game window.
 
 -- Keyboard Control:
